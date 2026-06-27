@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.uv/
+.nvim/
+*.swp
+*.pt
+*.pth
+*.bin
+*.ckpt
+out/
